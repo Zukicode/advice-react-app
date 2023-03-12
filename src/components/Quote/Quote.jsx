@@ -4,5 +4,5 @@ import React from 'react';
 import styles from './Quote.module.scss';
 
 export const Quote = ({ quote }) => {
-	return <p className={styles.quote}>{quote}</p>;
+	return <p className={styles.quote}>“{quote}”</p>;
 };
