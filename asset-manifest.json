@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/advice-react-app/static/css/main.e5984836.css",
+    "main.js": "/advice-react-app/static/js/main.8b346c5c.js",
+    "index.html": "/advice-react-app/index.html",
+    "static/media/pattern-divider-desktop.svg": "/advice-react-app/static/media/pattern-divider-desktop.ed9685263f6b47d21c88.svg",
+    "static/media/pattern-divider-mobile.svg": "/advice-react-app/static/media/pattern-divider-mobile.aca38726412164df099c.svg",
+    "main.e5984836.css.map": "/advice-react-app/static/css/main.e5984836.css.map",
+    "main.8b346c5c.js.map": "/advice-react-app/static/js/main.8b346c5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5984836.css",
+    "static/js/main.8b346c5c.js"
+  ]
+}
